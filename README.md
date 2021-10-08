@@ -27,7 +27,7 @@ Chat Screen.
 
 invalid entry
 1
-![Screenshot_20211008-123751](https://user-images.githubusercontent.com/88211080/136528877-34a71486-eb8b-4285-b031-ce87ce38d5d5.jpg)
+![Screenshot_20211008-123543](https://user-images.githubusercontent.com/88211080/136529929-a678807a-72c7-43da-9459-146f390adb4f.jpg)
 2
 ![Screenshot_20211008-123751](https://user-images.githubusercontent.com/88211080/136529729-f79121ab-9680-4fa2-863b-c19086d3b531.jpg)
 

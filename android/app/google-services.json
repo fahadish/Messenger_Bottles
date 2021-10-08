@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631386511583",
+    "project_id": "messangerbottles",
+    "storage_bucket": "messangerbottles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631386511583:android:7d5581f2c07e3bb95bf16a",
+        "android_client_info": {
+          "package_name": "com.example.my_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631386511583-pthdb7ba2vc6racmrikeblcofr2it0pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCkQDrm1HJE5ZIDpfL31v5XsBsnJP7Wr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631386511583-pthdb7ba2vc6racmrikeblcofr2it0pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
